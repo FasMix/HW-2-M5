@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1{
+    margin-top: 30px;
+}
+
+.header{
+    background-color: #eee;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.main{
+    background-color: #ecf0f1;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.footer{
+    background-color: #34495e;
+    color: #ecf0f1;
+    padding: 20px;
+    margin-top: 20px;
+}
